@@ -1,7 +1,5 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Thanks Frontend Mentor challenges for help me improve my coding skills by building realistic projects. 
 
 ## Table of contents
@@ -65,7 +63,7 @@ I want to continue focusing on in future projects. These could be more practice 
 
 ### Useful resources
 
-- [discord] (https://discord.com/) - This is amazing community
+- [discord](https://discord.com/) - This is amazing community
 - [slack](https://app.slack.com/) - This is community best practics
 - [frontendmentor](https://www.frontendmentor.io/) - This resource gives me the opportunities to learn more about the use frontend and real practice code simple challenges for beginners. Respect!
 - [freecodecamp](https://www.freecodecamp.org/) - This recource helped me learn to code
