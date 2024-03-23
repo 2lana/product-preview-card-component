@@ -24,8 +24,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/profile/2lana)
-- Live Site URL: [Add live site URL here](https://github.com/2lana)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/profile/2lana)
+- Live Site URL: [github](https://github.com/2lana)
 
 ## My process
 
